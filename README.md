@@ -30,5 +30,3 @@ This project showcases the fundamentals of **3D design and motion in web develop
 
 Feel free to fork this repo, make changes, and submit pull requests!
 
-
-Would you like me to tailor it specifically for the **tech stack you used** (e.g., *HTML/CSS only* or *Three.js-based 3D cube*)? I can adjust the wording accordingly.
